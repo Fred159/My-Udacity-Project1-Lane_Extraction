@@ -5,7 +5,7 @@
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Code was failed in challenge videos
-* referenced methodology of mvirgo
+* referenced methodology from mvirgo
 
 
 ### Reflection
